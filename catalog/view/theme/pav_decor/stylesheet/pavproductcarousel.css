@@ -1,0 +1,153 @@
+
+.productcarousel {
+	position: relative;
+}
+.productcarousel .product-block .group-item {
+	display: inline-block;
+}
+.productcarousel .name {
+	background-color: #424242;
+	line-height: 30px;
+	margin: -30px -13px 0;
+	 position: relative;
+}
+.productcarousel .name a {
+	 color: #FFFFFF;
+	 margin: 0;
+	 padding: 0 13px;
+}
+.productcarousel .product-block:hover  .name a {
+	color: #f2711f;
+}
+.productcarousel .group-action .cart {
+    float: none;
+}
+.productcarousel .group-action .cart input {
+	background-color: #7eac22;
+    display: inline-block;
+    height: auto;
+    overflow: hidden;
+    padding: 0;
+    text-indent: 0;
+    width: auto;
+}
+.productcarousel .group-action .group-action-inner {
+	background-color: #7eac22;
+    bottom: 30px;
+    height: 33px;
+    margin: 0 ;
+    position: absolute;
+    width: 100%;
+    right: -100%;
+	opacity:0;
+    transition: all 0.5s ease 0s;
+    -o-transition: all 0.5s ease 0s;
+    -ms-transition: all 0.5s ease 0s;
+    -webkit-transition: all 0.5s ease 0s;
+    -moz-transition: all 0.5s ease 0s;
+}
+.productcarousel .product-block:hover .group-action .group-action-inner {
+	right: 0;
+	opacity:1;
+    transition: all 1s ease 0s;
+    -o-transition: all 1s ease 0s;
+    -ms-transition: all 1s ease 0s;
+    -webkit-transition: all 1s ease 0s;
+    -moz-transition: all 1s ease 0s;
+}
+.productcarousel .group-action .wishlist, 
+.productcarousel .group-action .compare {
+    float: left;
+    width: 19.5%;
+    border-left: 1px solid #8cbc2b;
+    border-right: 1px solid #6d951d;
+}
+.productcarousel .group-action .cart {
+    float: left;
+    border-left: 1px solid #8cbc2b;
+    width: 56%;
+}
+.productcarousel .group-action .wishlist:hover, 
+.productcarousel .group-action .compare:hover, 
+.productcarousel .group-action .cart:hover {
+}
+.productcarousel .group-action .wishlist a,
+.productcarousel .group-action .compare a, 
+.productcarousel .group-action .cart .button {
+    background-image: url("../image/default/icon-action.png");
+    background-repeat: no-repeat;
+    height: 32px;
+    width: 100%;
+}
+.productcarousel .group-action .wishlist a, 
+.productcarousel .group-action .compare a {
+    overflow: hidden;
+    text-indent: -9999em;
+    padding: 0;
+}
+.productcarousel .group-action .wishlist a {
+    background-position: 55% 12px;
+}
+.productcarousel .group-action .compare a {
+    background-position: 58% -52px;
+}
+.productcarousel .group-action .cart .button {
+    background-position: 14% -125px;
+    color: #FFFFFF;
+    font-weight: 400;
+    padding-left: 30px;
+}
+.productcarousel .group-action .icon {
+    background-color: #F2711F;
+    bottom: 0;
+    color: #FFFFFF;
+    display: inline-block;
+    font-size: 14px;
+    font-weight: normal;
+    height: 30px;
+    line-height: 30px;
+    position: absolute;
+    right: 0;
+    text-align: center;
+    width: 30px;
+}
+.productcarousel .product-block:hover .group-action .icon {
+	background-color: #7eac22;
+}
+.productcarousel .product-block .price {
+	float: left;
+	color: #f2711f;
+	font-size: 18px;
+	margin: 5px 0;
+}
+.productcarousel .product-block .rating {
+	 text-align: right;
+}
+
+.productcarousel .box-description {
+    font-size: 12px;
+    color: #808080;
+    text-transform: none;
+    display: inline-block;
+    padding:  0 15px;
+    line-height: 22px;
+}
+
+.productcarousel .box-description p {
+    margin-bottom: 0;
+}
+.productcarousel .carousel-controls {
+    position: absolute;
+    right: 0;
+    top: 10px;
+    width: 80px;
+}
+.productcarousel .carousel-control {
+        border-radius: 15px;
+    font-size: 24px;
+    height: 20px;
+    line-height: 15px;
+    margin-top: 0;
+    width: 20px;
+    opacity: 0.5;
+}

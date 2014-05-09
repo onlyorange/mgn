@@ -1,0 +1,8 @@
+.pavblog-latest .blog-item .group-blog {
+    background-color: #333;
+}
+.container, .navbar-static-top .container, .navbar-fixed-top .container, .navbar-fixed-bottom .container {
+ width: 1170px;}
+.pavblog-latest .blog-item .group-blog {
+  bottom: -50px;
+  }

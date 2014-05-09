@@ -1,0 +1,37 @@
+2014-05-04 11:11:59 - PHP Notice:  Undefined index: bits in /home/mgncpan/public_html/system/library/image.php on line 16
+2014-05-04 11:11:59 - PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/mgncpan/public_html/system/library/image.php on line 99
+2014-05-04 11:11:59 - PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/mgncpan/public_html/system/library/image.php on line 100
+2014-05-04 11:12:51 - PHP Notice:  Undefined index: bits in /home/mgncpan/public_html/system/library/image.php on line 16
+2014-05-04 11:12:51 - PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/mgncpan/public_html/system/library/image.php on line 99
+2014-05-04 11:12:51 - PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/mgncpan/public_html/system/library/image.php on line 100
+2014-05-04 11:13:56 - PHP Notice:  Undefined index: bits in /home/mgncpan/public_html/system/library/image.php on line 16
+2014-05-04 11:13:56 - PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/mgncpan/public_html/system/library/image.php on line 99
+2014-05-04 11:13:56 - PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/mgncpan/public_html/system/library/image.php on line 100
+2014-05-04 11:14:56 - PHP Notice:  Undefined index: bits in /home/mgncpan/public_html/system/library/image.php on line 16
+2014-05-04 11:14:56 - PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/mgncpan/public_html/system/library/image.php on line 99
+2014-05-04 11:14:56 - PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/mgncpan/public_html/system/library/image.php on line 100
+2014-05-04 21:06:55 - PHP Notice:  Undefined index: bits in /home/mgncpan/public_html/system/library/image.php on line 16
+2014-05-04 21:06:55 - PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/mgncpan/public_html/system/library/image.php on line 99
+2014-05-04 21:06:55 - PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/mgncpan/public_html/system/library/image.php on line 100
+2014-05-04 22:31:37 - PHP Notice:  Undefined index: bits in /home/mgncpan/public_html/system/library/image.php on line 16
+2014-05-04 22:31:37 - PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/mgncpan/public_html/system/library/image.php on line 99
+2014-05-04 22:31:37 - PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/mgncpan/public_html/system/library/image.php on line 100
+2014-05-05 17:03:21 - PHP Notice:  Undefined index: bits in /home/mgncpan/public_html/system/library/image.php on line 16
+2014-05-05 17:03:21 - PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/mgncpan/public_html/system/library/image.php on line 99
+2014-05-05 17:03:21 - PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/mgncpan/public_html/system/library/image.php on line 100
+2014-05-05 18:43:21 - PHP Notice:  Undefined index: bits in /home/mgncpan/public_html/system/library/image.php on line 16
+2014-05-05 18:43:21 - PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/mgncpan/public_html/system/library/image.php on line 99
+2014-05-05 18:43:21 - PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/mgncpan/public_html/system/library/image.php on line 100
+2014-05-05 18:44:10 - PHP Notice:  Undefined index: bits in /home/mgncpan/public_html/system/library/image.php on line 16
+2014-05-05 18:44:10 - PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/mgncpan/public_html/system/library/image.php on line 99
+2014-05-05 18:44:10 - PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/mgncpan/public_html/system/library/image.php on line 100
+2014-05-05 20:04:05 - PHP Notice:  Undefined index: bits in /home/mgncpan/public_html/system/library/image.php on line 16
+2014-05-05 20:04:05 - PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/mgncpan/public_html/system/library/image.php on line 99
+2014-05-05 20:04:05 - PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/mgncpan/public_html/system/library/image.php on line 100
+2014-05-06 18:01:29 - PHP Notice:  A non well formed numeric value encountered in /home/mgncpan/public_html/system/library/image.php on line 86
+2014-05-06 18:01:29 - PHP Notice:  A non well formed numeric value encountered in /home/mgncpan/public_html/system/library/image.php on line 86
+2014-05-06 18:01:29 - PHP Notice:  A non well formed numeric value encountered in /home/mgncpan/public_html/system/library/image.php on line 97
+2014-05-06 18:01:29 - PHP Notice:  A non well formed numeric value encountered in /home/mgncpan/public_html/system/library/image.php on line 97
+2014-05-08 1:35:09 - PHP Notice:  Undefined index: bits in /home/mgncpan/public_html/system/library/image.php on line 16
+2014-05-08 1:35:09 - PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/mgncpan/public_html/system/library/image.php on line 99
+2014-05-08 1:35:09 - PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/mgncpan/public_html/system/library/image.php on line 100

@@ -1,0 +1,1 @@
+a:1:{i:1;a:13:{s:9:"layout_id";s:5:"99999";s:8:"position";s:13:"footer_center";s:6:"status";s:1:"1";s:10:"sort_order";i:1;s:8:"page_url";s:35:"https://www.facebook.com/Pavothemes";s:14:"application_id";s:0:"";s:12:"border_color";s:1:"0";s:11:"colorscheme";s:4:"dark";s:5:"width";s:3:"235";s:6:"height";s:0:"";s:5:"tream";s:1:"0";s:10:"show_faces";s:1:"1";s:6:"header";s:1:"0";}}

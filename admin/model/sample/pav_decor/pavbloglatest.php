@@ -1,0 +1,2 @@
+a:1:{i:1;a:10:{s:11:"description";a:2:{i:1;s:127:"&lt;p&gt;Lorem ipsum sit amet consectetur adipiscing elit donec iaculis, ipsum convallis bibendum pretium dui massa&lt;/p&gt;
+";i:3;s:0:"";}s:4:"tabs";s:6:"latest";s:5:"width";s:3:"500";s:6:"height";s:3:"500";s:4:"cols";s:1:"4";s:5:"limit";s:1:"4";s:9:"layout_id";s:5:"99999";s:8:"position";s:10:"footer_top";s:6:"status";s:1:"1";s:10:"sort_order";i:1;}}

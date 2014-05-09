@@ -1,0 +1,2 @@
+a:1:{i:1;a:13:{s:11:"description";a:2:{i:1;s:101:"&lt;p&gt;Curabitur tempus velit in leo tempus velit in leo fermentum quis tincidunt lorem&lt;/p&gt;
+";i:3;s:0:"";}s:4:"tabs";a:1:{i:0;s:6:"latest";}s:5:"width";s:3:"300";s:6:"height";s:3:"330";s:12:"itemsperpage";s:1:"4";s:4:"cols";s:1:"4";s:5:"limit";s:2:"12";s:8:"interval";s:4:"8000";s:9:"auto_play";s:1:"0";s:9:"layout_id";s:1:"1";s:8:"position";s:8:"showcase";s:6:"status";s:1:"1";s:10:"sort_order";i:2;}}
